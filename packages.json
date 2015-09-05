@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Test 1",
+      "name" : "Art's  Modpack Test 1",
+      "version" : "1.0",
+      "location" : "art-s-modpack-test-1.json",
+      "priority" : 0
+    }
+  ]
+}
